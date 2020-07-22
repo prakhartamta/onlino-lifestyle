@@ -31,7 +31,7 @@
         </nav>
           
      
-           <div class="content">
+           <div>
             <!--Main banner image starts-->
             <div id = "banner_image">
                 <div class="container">	
@@ -50,9 +50,9 @@
        <!--Main banner image end-->
 
     <!--Item categories listing-->
-    <div class="container">
+    <div class="container" style="margin-top: 20px">
         <row>
-              <div class="col-sm-4">
+              <div class="col-lg-4 col-xs-12">
                 <a href="product.php#cameras" alt="">
                 <div class="thumbnail">
                   <img src="img/1.jpg">
@@ -66,7 +66,7 @@
                 </a>
             </div>
             
-        <div class="col-sm-4">
+        <div class="col-lg-4 col-xs-12">
             <a href="product.php#watches">
             <div class="thumbnail">
                 <img src="img/7.jpg" alt="">
@@ -79,7 +79,7 @@
             </a>
          </div>
             
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-xs-12">
                  <a href="product.php#shirts">
                  <div class="thumbnail">
                     <img src="img/8.jpg" alt="">

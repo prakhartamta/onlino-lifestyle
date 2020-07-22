@@ -37,7 +37,7 @@ if (isset($_SESSION['email']))
         </nav>
         <div class="container">
          <div class="row row_style">
-            <div class= "col-xs-4 col-xs-offset-4">
+            <div class= "col-xs-12  col-lg-4 col-lg-offset-4">
                 
                    
                        <h1>SIGN-UP</h1>
